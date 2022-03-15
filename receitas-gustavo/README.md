@@ -1,6 +1,6 @@
-h1<Livro de Receitas>h1
+#Livro de Receitas
 
-Bem vindo ao meu livro de receitas
+##Bem vindo ao meu livro de receitas
 
  - Empada
  - Pavê 
