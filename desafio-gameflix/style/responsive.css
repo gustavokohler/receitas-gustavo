@@ -1,0 +1,18 @@
+@media screen and (max-width: 700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+     } /*quando a tela tive 700px pra menos, o cabeçalho passa a ser coluna*/  
+
+     .botao{
+         margin-top: 5px;
+         width: 300px;
+     }
+}
+
+@media screen and (min-width: 1000px) {
+    .descricao{
+        width: 50%;
+    } /*Faz o movimento inverso da função acima, a partir de 1000px o texto vai ocupar até 50% da tela*/
+    
+}
